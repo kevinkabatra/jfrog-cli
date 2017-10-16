@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>jfrog-cli</id>
+    <version>1.11.2</version>
+    <packageSourceUrl>https://github.com/kevinkabatra/jfrog-cli</packageSourceUrl>
+    <title>JFrog CLI</title>
+    <authors>JFrog Ltd</authors>
+    <owners>Kevin Kabatra</owners>
+    <projectUrl>https://www.jfrog.com/confluence/display/CLI/JFrog+CLI</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <bugTrackerUrl>https://github.com/kevinkabatra/jfrog-cli/issues</bugTrackerUrl>
+    <tags>JFrog CLI admin</tags>
+    <summary>JFrog CLI provides a simple interface that automates access to JFrog products: JFrog Artifactory, JFrog Mission Control, JFrog Bintray and JFrog Xray.</summary>
+    <description>JFrog CLI is a compact and smart client that provides a simple interface that automates access to JFrog products simplifying your automation scripts and making them more readable and easier to maintain. JFrog CLI works with JFrog Artifactory, JFrog Mission Control, JFrog Bintray and JFrog Xray (through their respective REST APIs) making your scripts more efficient and reliable in several ways.</description>
+    <releaseNotes>https://github.com/kevinkabatra/jfrog-cli/commits/master</releaseNotes>
+    <copyright> Copyright 2017 JFrog Ltd.</copyright>
+  </metadata>
+</package>
