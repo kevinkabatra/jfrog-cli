@@ -17,4 +17,7 @@
     <releaseNotes>https://github.com/kevinkabatra/jfrog-cli/commits/master</releaseNotes>
     <copyright> Copyright 2017 JFrog Ltd.</copyright>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>
