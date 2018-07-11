@@ -3,12 +3,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>jfrog-cli</id>
-    <version>1.16.1</version>
+    <version>1.16.2</version>
     <packageSourceUrl>https://github.com/kevinkabatra/jfrog-cli</packageSourceUrl>
     <title>JFrog CLI</title>
     <authors>JFrog Ltd</authors>
     <owners>Kevin Kabatra</owners>
     <projectUrl>https://www.jfrog.com/confluence/display/CLI/JFrog+CLI</projectUrl>
+    <licenseUrl>https://github.com/jfrog/jfrog-cli-go/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <bugTrackerUrl>https://github.com/kevinkabatra/jfrog-cli/issues</bugTrackerUrl>
     <tags>JFrog CLI admin</tags>
