@@ -3,8 +3,8 @@ $toolsDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 Get-ChocolateyWebFile `
     -PackageName 'JFrog CLI' `
     -FileFullPath "$env:ProgramData\JFrog\jfrog.exe" `
-    -Url 'https://bintray.com/jfrog/jfrog-cli-go/download_file?file_path=1.20.1%2Fjfrog-cli-windows-amd64%2Fjfrog.exe' `
-    -Checksum 'cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e' `
+    -Url 'https://bintray.com/jfrog/jfrog-cli-go/download_file?file_path=1.20.2%2Fjfrog-cli-windows-amd64%2Fjfrog.exe' `
+    -Checksum 'FFECC313C95B0CA91A287BC080DCF61052C72C0F8BFE3F869BBC2AF3183D7753932E3BC25789BE7405BCDD910797A52E8E81ECAB644D5A1C56ED3B3D1C1EC99D' `
     -ChecksumType 'sha512' `
     -ForceDownload
     
