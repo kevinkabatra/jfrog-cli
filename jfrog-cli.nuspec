@@ -4,19 +4,19 @@
   <metadata>
     <id>jfrog-cli</id>
     <version>1.17.0</version>
-    <packageSourceUrl>https://github.com/kevinkabatra/jfrog-cli</packageSourceUrl>
+    <packageSourceUrl>https://github.com/jgeorgeson/jfrog-cli</packageSourceUrl>
     <title>JFrog CLI</title>
     <authors>JFrog Ltd</authors>
     <owners>Kevin Kabatra</owners>
     <projectUrl>https://www.jfrog.com/confluence/display/CLI/JFrog+CLI</projectUrl>
     <licenseUrl>https://github.com/jfrog/jfrog-cli-go/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <bugTrackerUrl>https://github.com/kevinkabatra/jfrog-cli/issues</bugTrackerUrl>
+    <bugTrackerUrl>https://github.com/jgeorgeson/jfrog-cli/issues</bugTrackerUrl>
     <tags>JFrog CLI admin</tags>
     <summary>JFrog CLI provides a simple interface that automates access to JFrog products: JFrog Artifactory, JFrog Mission Control, JFrog Bintray and JFrog Xray.</summary>
     <description>JFrog CLI is a compact and smart client that provides a simple interface that automates access to JFrog products simplifying your automation scripts and making them more readable and easier to maintain. JFrog CLI works with JFrog Artifactory, JFrog Mission Control, JFrog Bintray and JFrog Xray (through their respective REST APIs) making your scripts more efficient and reliable in several ways.</description>
-    <releaseNotes>https://github.com/kevinkabatra/jfrog-cli/commits/master</releaseNotes>
-    <copyright> Copyright 2017 JFrog Ltd.</copyright>
+    <releaseNotes>https://github.com/jgeorgeson/jfrog-cli/commits/master</releaseNotes>
+    <copyright> Copyright 2018 JFrog Ltd.</copyright>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
